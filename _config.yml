@@ -1,0 +1,16 @@
+---
+title: Naaman Hudson
+timezone: GMT
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+email: naamanh10@gmail.com
+description: Experienced Product Manager based in Manchester.
+baseurl: ''
+url: http://resume.naamanhudson.com/
+markdown: kramdown
